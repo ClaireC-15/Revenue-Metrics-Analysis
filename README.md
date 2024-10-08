@@ -39,4 +39,3 @@ The dataset contains information about user revenue metrics for a mobile game, i
 •	Logical calculations (IF, CASE) and date functions </br>
 •	LOD expressions (FIXED) </br>
 •	Dual-Axis Charts, Combined Charts, And Custom Shapes </br>
-•	Aesthetic color choice with a diverging scheme to illustrate the intensity
