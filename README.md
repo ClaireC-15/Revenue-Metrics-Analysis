@@ -32,10 +32,10 @@ The dataset contains information about user revenue metrics for a mobile game, i
 5.  Use demographic data to create tailored marketing strategies that resonate with specific user segments.
 
 ## Skills used: 
-•	SQL JOIN queries to extract data from two tables.
-•	Dashboard Development using Tableau
-•	Calculated Fields 
-•	Aggregate functions
-•	Logical calculations (IF, CASE) and date functions
-•	Dual-Axis Charts, Combined Charts, And Custom Shapes
+•	SQL JOIN queries to extract data from two tables </br>
+•	Dashboard Development using Tableau </br>
+•	Calculated Fields </br>
+•	Aggregate functions </br>
+•	Logical calculations (IF, CASE) and date functions </br>
+•	Dual-Axis Charts, Combined Charts, And Custom Shapes </br>
 •	Aesthetic color choice with a diverging scheme to illustrate the intensity
